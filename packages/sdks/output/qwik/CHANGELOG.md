@@ -1,5 +1,11 @@
 # Builder.io Qwik SDK Changelog (@builder.io/sdk-qwik)
 
+## 0.16.19
+
+### Patch Changes
+
+- 185ee23: Fix: duplication of content in the Visual Editor when editing a symbol model that renders another symbol
+
 ## 0.16.18
 
 ### Patch Changes

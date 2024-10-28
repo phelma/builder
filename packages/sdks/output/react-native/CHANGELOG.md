@@ -1,5 +1,11 @@
 # Builder.io React Native SDK Changelog (@builder.io/sdk-react-native)
 
+## 2.0.26
+
+### Patch Changes
+
+- 185ee23: Fix: duplication of content in the Visual Editor when editing a symbol model that renders another symbol
+
 ## 2.0.25
 
 ### Patch Changes

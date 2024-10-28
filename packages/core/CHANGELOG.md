@@ -1,5 +1,11 @@
 # @builder.io/sdk
 
+## 3.0.8
+
+### Patch Changes
+
+- 443a3e3: Types: add jsdoc comments for some Builder SDK types
+
 ## 3.0.7
 
 ### Patch Changes

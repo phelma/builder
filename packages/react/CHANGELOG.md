@@ -1,5 +1,12 @@
 # @builder.io/react
 
+## 5.0.12
+
+### Patch Changes
+
+- Updated dependencies [443a3e3]
+  - @builder.io/sdk@3.0.8
+
 ## 5.0.11
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # Builder.io Vue SDK Changelog (@builder.io/sdk-vue)
 
+## 2.0.26
+
+### Patch Changes
+
+- 2e2f937: Fix: resolve `nuxt-isolated-vm-plugin.js` import path correctly so that it doesn't check from the root folder
+- 185ee23: Fix: duplication of content in the Visual Editor when editing a symbol model that renders another symbol
+
 ## 2.0.25
 
 ### Patch Changes
